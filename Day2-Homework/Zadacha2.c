@@ -17,3 +17,5 @@ int XOROperator (int a, int b, int c, int *result, int*resultForThree) {
     printf("Result for three numbers is: %d\n", *resultForThree);
 }
 
+// cat < Numbers.txt | sort -n | tail -1 (maximum)
+// cat < Numbers.txt | sort -n | head -1 (minimum)
